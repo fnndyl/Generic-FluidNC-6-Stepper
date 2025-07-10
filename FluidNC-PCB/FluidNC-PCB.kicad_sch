@@ -2872,16 +2872,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Caps on drivers, uC, big caps on 12V!"
-		(exclude_from_sim no)
-		(at 120.65 254 0)
-		(effects
-			(font
-				(size 6.35 6.35)
-			)
-		)
-		(uuid "542f1783-5419-4c4e-8bb4-fc65751f2344")
-	)
 	(junction
 		(at 212.09 184.15)
 		(diameter 0)
