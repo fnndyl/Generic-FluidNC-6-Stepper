@@ -3429,13 +3429,13 @@
 	(footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "610e6393-d567-4458-af36-faea7b8798ca")
-		(at 177.5 111.54 90)
+		(at 175.5 111.54 90)
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J15"
 			(at 1.27 -4.12 90)
 			(layer "F.SilkS")
-			(uuid "f7beb160-cef9-4635-872d-997ec7dc8afc")
+			(uuid "4771d0a1-3a36-4f44-84ae-59548653080f")
 			(effects
 				(font
 					(size 1 1)
@@ -3446,7 +3446,7 @@
 		(property "Value" "Molex_01x02_Socket"
 			(at 1.27 4.08 90)
 			(layer "F.Fab")
-			(uuid "ed7dd042-a64d-4805-a6f3-549a7678920b")
+			(uuid "63e4bc06-8873-492a-a7dc-920a4b7e7eb5")
 			(effects
 				(font
 					(size 1 1)
@@ -3458,7 +3458,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "31c9fc93-8ac5-4e81-9ee4-65989584e80c")
+			(uuid "66bea7d2-2524-49f7-b98b-a74e667da74e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3470,7 +3470,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c153c323-db1e-4510-be14-767a517453bf")
+			(uuid "999ffa00-f554-4b94-a6f4-fad8717b178b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7372,13 +7372,13 @@
 	(footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "b15a9097-ab1b-47b5-9b77-89f74aaa42aa")
-		(at 177.5 105.04 90)
+		(at 175.5 105.04 90)
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J16"
 			(at 1.27 -4.12 90)
 			(layer "F.SilkS")
-			(uuid "0a0c08a1-8ea7-453e-ac80-bc5f28d9e262")
+			(uuid "a752028d-786e-40db-97b6-348a24c9175e")
 			(effects
 				(font
 					(size 1 1)
@@ -7389,7 +7389,7 @@
 		(property "Value" "Molex_01x02_Socket"
 			(at 1.27 4.08 90)
 			(layer "F.Fab")
-			(uuid "e80b619e-d57d-4e56-95d5-95505600769d")
+			(uuid "98130828-42f9-4441-a67a-56be39266648")
 			(effects
 				(font
 					(size 1 1)
@@ -7401,7 +7401,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "92965c83-18ea-4390-a47d-909e1a771256")
+			(uuid "c44cd189-8945-4663-b761-8064390b1f1b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7413,7 +7413,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a627899b-bba4-469f-8379-3f59c0564602")
+			(uuid "58dff35e-bb8e-4808-b3ec-a593c7501fb8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7766,13 +7766,13 @@
 	(footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c2fc4521-922e-44ed-9d0a-811e6bc34a14")
-		(at 177.5 118.04 90)
+		(at 175.5 118.04 90)
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J11"
 			(at 1.27 -4.12 90)
 			(layer "F.SilkS")
-			(uuid "23e209fa-a56b-4825-9fbc-13365d024403")
+			(uuid "42cc5e46-4540-4b25-9508-72d0a20367fe")
 			(effects
 				(font
 					(size 1 1)
@@ -7783,7 +7783,7 @@
 		(property "Value" "Molex_01x02_Socket"
 			(at 1.27 4.08 90)
 			(layer "F.Fab")
-			(uuid "25ed3c19-960c-4c33-bd12-7e09957db443")
+			(uuid "b671a88b-4d9f-4383-8d37-df43ad9eb2d3")
 			(effects
 				(font
 					(size 1 1)
@@ -7795,7 +7795,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f90b21e-4c2e-4178-8f93-46692a6e21e3")
+			(uuid "5ac8967c-d3ff-4ba7-b130-de6368db71a5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7807,7 +7807,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f58453f5-1f1f-4ea1-adf8-dea7dfdf1bc2")
+			(uuid "e64cce84-ce7a-4cc8-8a07-aa91c4dbf7a9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10920,13 +10920,13 @@
 	(footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e9485234-d043-4b83-a24d-eaa634f7e9b6")
-		(at 177.5 124.54 90)
+		(at 175.5 124.54 90)
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J12"
 			(at 1.27 -4.12 90)
 			(layer "F.SilkS")
-			(uuid "09b9b907-0e36-4177-9d37-e67a49a3defb")
+			(uuid "c488b3d4-a88d-449d-ac87-c57a93af854e")
 			(effects
 				(font
 					(size 1 1)
@@ -10937,7 +10937,7 @@
 		(property "Value" "Molex_01x02_Socket"
 			(at 1.27 4.08 90)
 			(layer "F.Fab")
-			(uuid "5b464669-0459-4313-be72-a56145f8fe87")
+			(uuid "5a50af93-adc9-43d1-a131-201e1b236fce")
 			(effects
 				(font
 					(size 1 1)
@@ -10949,7 +10949,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e784e819-3353-4bcd-8814-b752fd255567")
+			(uuid "76bb4085-b366-4df3-9f71-5cc1099ea480")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10961,7 +10961,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b6b18630-4cda-4daf-814a-2b5c4c329705")
+			(uuid "49ef29b7-3ab5-482f-9669-dcbd2f4e2bc3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11314,13 +11314,13 @@
 	(footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ed56ffe9-c859-485d-9e6e-61d19fd52aae")
-		(at 177.5 131.04 90)
+		(at 175.5 131.04 90)
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J13"
 			(at 1.27 -4.12 90)
 			(layer "F.SilkS")
-			(uuid "adaf9d9e-3163-4ddb-b51a-0f518730a11b")
+			(uuid "1f244b58-e467-459d-bf9f-b9651a5fe70f")
 			(effects
 				(font
 					(size 1 1)
@@ -11331,7 +11331,7 @@
 		(property "Value" "Molex_01x02_Socket"
 			(at 1.27 4.08 90)
 			(layer "F.Fab")
-			(uuid "004ef3d7-7c50-40e0-8c98-020cc2c713eb")
+			(uuid "6cefee75-27c6-4f7a-81bc-6b4cd475a717")
 			(effects
 				(font
 					(size 1 1)
@@ -11343,7 +11343,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "637073c5-9b35-4ebc-8a1d-53712f311e35")
+			(uuid "ce792654-52ef-4823-ad75-5ed1add84c52")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11355,7 +11355,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "acca8cdd-03cd-4ceb-a70c-3aa25b1fb457")
+			(uuid "e02d53a5-05d2-43dc-8cd5-3a0fbb98f076")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13265,13 +13265,13 @@
 	(footprint "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f55eddc9-f59b-458f-9ab2-11e8c27a4fa9")
-		(at 177.5 137.54 90)
+		(at 175.5 137.54 90)
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J14"
 			(at 1.27 -4.12 90)
 			(layer "F.SilkS")
-			(uuid "e0b28aed-b949-4abc-abcf-a4d15a647cde")
+			(uuid "8d02e79f-6b19-4855-a099-a24ca17ab375")
 			(effects
 				(font
 					(size 1 1)
@@ -13282,7 +13282,7 @@
 		(property "Value" "Molex_01x02_Socket"
 			(at 1.27 4.08 90)
 			(layer "F.Fab")
-			(uuid "0d99c1c1-0ada-4169-a464-5bc45ac48da0")
+			(uuid "c5ef5d09-a7f0-41d7-8464-07213e26b479")
 			(effects
 				(font
 					(size 1 1)
@@ -13294,7 +13294,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95df95af-54f9-47d4-a5f9-613e1f1a689b")
+			(uuid "791cf094-4edc-43e5-8a0e-423a9eb11cdb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13306,7 +13306,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "94654885-c22f-435a-a01c-0cbb033cde77")
+			(uuid "8f8b1d59-3b19-4b6e-ba41-9e15d5d84386")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15460,6 +15460,14 @@
 		(uuid "fd694ce8-ba5c-4b28-909b-1863509c57eb")
 	)
 	(segment
+		(start 177.5 129.04)
+		(end 175.5 131.04)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "0232ab68-f0d8-4d93-b21b-4390b9c9af71")
+	)
+	(segment
 		(start 166.38 80.49)
 		(end 190.99 80.49)
 		(width 0.5)
@@ -15524,22 +15532,6 @@
 		(uuid "12b81e28-8aba-4b78-ba8d-7804457260a0")
 	)
 	(segment
-		(start 179.5 129.04)
-		(end 177.5 131.04)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "144fad90-9d37-4b73-bc80-28ce4dc18a2e")
-	)
-	(segment
-		(start 200.5 90.5)
-		(end 200.5 73.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "153ac9a1-2bc5-4e21-b111-95a0fc9f7a5a")
-	)
-	(segment
 		(start 115 80)
 		(end 111.5 76.5)
 		(width 0.5)
@@ -15548,12 +15540,12 @@
 		(uuid "18f55dc8-dca2-4ba8-b01a-f207b8fdfe79")
 	)
 	(segment
-		(start 179.5 109.54)
-		(end 177.5 111.54)
+		(start 177.5 135.54)
+		(end 175.5 137.54)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
-		(uuid "1915469e-28a2-4e8b-bf03-73218b307ca9")
+		(uuid "1b7b2ad6-7a0f-4986-aeae-53343bb3d5ee")
 	)
 	(segment
 		(start 115 93)
@@ -15596,6 +15588,14 @@
 		(uuid "2a438eb7-391a-46e1-a484-5248e1d6461f")
 	)
 	(segment
+		(start 177.5 122.54)
+		(end 177.5 129.04)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "2b717750-ab40-4146-a218-79eafe6e0126")
+	)
+	(segment
 		(start 174 89)
 		(end 174 93.5)
 		(width 0.5)
@@ -15612,20 +15612,20 @@
 		(uuid "2d86e4f5-81c8-4db9-aa44-a0d1aaa1484c")
 	)
 	(segment
+		(start 177.5 129.04)
+		(end 177.5 135.54)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "2f548838-9785-4e58-ab37-84a11d4983bd")
+	)
+	(segment
 		(start 97.1 115.62)
 		(end 97.1 119.12)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "328573d6-0c7e-4c7f-8955-3623d94b5fad")
-	)
-	(segment
-		(start 190.5 100.5)
-		(end 200.5 90.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "360e2930-e5b5-4ad7-975a-bf3aa235937f")
 	)
 	(segment
 		(start 94.9 121.32)
@@ -15668,14 +15668,6 @@
 		(uuid "3cc0ef29-86e8-43bc-85c4-40c35c85ad39")
 	)
 	(segment
-		(start 177.5 105.04)
-		(end 179.5 107.04)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "3d93b719-b2e1-4787-94e9-e027307c1800")
-	)
-	(segment
 		(start 164.51 89.98)
 		(end 165.99 88.5)
 		(width 0.5)
@@ -15692,6 +15684,14 @@
 		(uuid "423873b1-71b4-434d-9a81-ee5b5bc71983")
 	)
 	(segment
+		(start 177.5 122.54)
+		(end 175.5 124.54)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "43733d6a-000e-4a62-8114-5778e88441f5")
+	)
+	(segment
 		(start 109.5 128.3)
 		(end 109.5 137)
 		(width 0.5)
@@ -15700,20 +15700,20 @@
 		(uuid "447621c3-0e85-4a5f-9f8e-80c551924a61")
 	)
 	(segment
-		(start 179.5 135.54)
-		(end 177.5 137.54)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "4504b895-91e2-414b-bbdb-939d31975dd5")
-	)
-	(segment
 		(start 125 76.96)
 		(end 125 74.42)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "45a103b6-b80c-49b2-b7b5-77a54b2c3f6f")
+	)
+	(segment
+		(start 177.5 116.04)
+		(end 177.5 122.54)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "468835d3-e10b-4d9e-8eb6-658a6ff945da")
 	)
 	(segment
 		(start 107.71 74.619182)
@@ -15748,20 +15748,20 @@
 		(uuid "51f426dc-0b51-4bd5-b65a-77c0ed433ca2")
 	)
 	(segment
-		(start 179.5 116.04)
-		(end 177.5 118.04)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "536a5266-f614-4d18-8bb2-d439b6f94652")
-	)
-	(segment
 		(start 107.6 126.4)
 		(end 109.5 128.3)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "54149a16-2eb3-474d-8a44-33daefe43240")
+	)
+	(segment
+		(start 177.5 109.54)
+		(end 175.5 111.54)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "54c8a85b-b1c3-445f-9204-97a19baa5a8f")
 	)
 	(segment
 		(start 164.51 89.98)
@@ -15804,12 +15804,12 @@
 		(uuid "5d76b134-76a8-4662-b467-0f6f9727e578")
 	)
 	(segment
-		(start 179.5 122.54)
-		(end 177.5 124.54)
+		(start 200.5 73.5)
+		(end 200.5 90.5)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
-		(uuid "5e4dbf09-0f35-4146-897c-a6a138d75422")
+		(uuid "5eeafcf4-2713-4f15-b5cf-1b2ec4a4ff43")
 	)
 	(segment
 		(start 106 122.26)
@@ -15818,14 +15818,6 @@
 		(layer "B.Cu")
 		(net 3)
 		(uuid "60ca2218-b575-4657-b9df-f1262fb09fdc")
-	)
-	(segment
-		(start 179.5 107.04)
-		(end 179.5 109.54)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "61b69101-cd7b-4a53-b5cc-54345a0e892a")
 	)
 	(segment
 		(start 126 80.5)
@@ -15852,6 +15844,14 @@
 		(uuid "640bbe52-6000-4d84-9054-b7824fbad744")
 	)
 	(segment
+		(start 177.5 116.04)
+		(end 175.5 118.04)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "641cd5b9-e51c-49d9-bd72-c3bb8dea2bde")
+	)
+	(segment
 		(start 109.5 137)
 		(end 108.5 138)
 		(width 0.5)
@@ -15868,28 +15868,20 @@
 		(uuid "69e4b550-5270-4038-a227-e59d1bc724df")
 	)
 	(segment
-		(start 182 100.54)
-		(end 182 100.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "6d36200c-d6a6-4523-b4f6-f66ced2ee41e")
-	)
-	(segment
-		(start 177.5 118.04)
-		(end 179.5 120.04)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "7081d1c5-452e-492a-b1f5-c5c678e80b7e")
-	)
-	(segment
 		(start 144.95 77.95)
 		(end 142.41 80.49)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "7619ea2d-25de-4ea7-99a5-eef26ae681ed")
+	)
+	(segment
+		(start 177.5 105.04)
+		(end 177.5 109.54)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "767c337d-765e-44c6-bb5c-800e1da2779f")
 	)
 	(segment
 		(start 106 100.5)
@@ -15908,12 +15900,12 @@
 		(uuid "79cbc7e8-d38f-40ed-9bdd-769a5a2303a1")
 	)
 	(segment
-		(start 177.5 131.04)
-		(end 179.5 133.04)
+		(start 177.5 105.04)
+		(end 175.5 105.04)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
-		(uuid "7dd3519b-65fb-4fde-9bd4-0407492ed314")
+		(uuid "79e854a9-2c05-4fb8-b4a7-f0a541f21cfd")
 	)
 	(segment
 		(start 97.1 90.87)
@@ -15932,12 +15924,12 @@
 		(uuid "83f8c4ce-91b5-4e04-8565-1b6897f9567e")
 	)
 	(segment
-		(start 177.5 124.54)
-		(end 179.5 126.54)
+		(start 177.5 109.54)
+		(end 177.5 116.04)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
-		(uuid "8cdeba63-0447-4c28-9b53-e579ead25e5a")
+		(uuid "8eea80ec-a7e4-4548-84a8-f180709e7c14")
 	)
 	(segment
 		(start 164.51 89.99)
@@ -15956,12 +15948,12 @@
 		(uuid "91008760-4571-4da6-8a21-ee26f6ca3c4c")
 	)
 	(segment
-		(start 179.5 126.54)
-		(end 179.5 129.04)
+		(start 182 100.5)
+		(end 182 100.54)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
-		(uuid "93b54e56-07a9-4efe-9861-cd8f967f9055")
+		(uuid "91cc3299-95d1-445a-a55e-42ca0b569de9")
 	)
 	(segment
 		(start 106 93.5)
@@ -16002,14 +15994,6 @@
 		(layer "B.Cu")
 		(net 3)
 		(uuid "a08003bb-df40-405c-841f-7b7722ac14b5")
-	)
-	(segment
-		(start 179.5 120.04)
-		(end 179.5 122.54)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "a4a59bae-fbe5-49bf-8717-26f8cb5dcdd4")
 	)
 	(segment
 		(start 91.35 90.87)
@@ -16100,14 +16084,6 @@
 		(uuid "c4914bb0-9969-4816-9119-dffe3ee3e5ae")
 	)
 	(segment
-		(start 177.5 105.04)
-		(end 182 100.54)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "c621eeb3-7eea-48ae-aa77-277cbdfc148f")
-	)
-	(segment
 		(start 139.87 89.98)
 		(end 135.35 94.5)
 		(width 0.5)
@@ -16132,28 +16108,12 @@
 		(uuid "cb43516e-ee6e-4fcb-948a-be397bd1ef48")
 	)
 	(segment
-		(start 179.5 133.04)
-		(end 179.5 135.54)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "cbb52abe-b327-4bbd-bf8d-fbba392d0eae")
-	)
-	(segment
 		(start 151.5 94.5)
 		(end 149.5 92.5)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "cd744552-7fcf-47ce-b2c7-af1a16dced07")
-	)
-	(segment
-		(start 182 100.5)
-		(end 190.5 100.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "ce625ba9-a98d-49c8-9d3a-69ca649ab54b")
 	)
 	(segment
 		(start 125 79.5)
@@ -16170,14 +16130,6 @@
 		(layer "B.Cu")
 		(net 3)
 		(uuid "cf657b4c-0e71-429f-b54b-39de7dacdc5c")
-	)
-	(segment
-		(start 179.5 113.54)
-		(end 179.5 116.04)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "d08e6cd8-f1b2-417c-b9bb-2cfb9213ccbe")
 	)
 	(segment
 		(start 105 138)
@@ -16210,6 +16162,14 @@
 		(layer "B.Cu")
 		(net 3)
 		(uuid "d59137e7-699f-44e8-88a4-59e680babfef")
+	)
+	(segment
+		(start 190.5 100.5)
+		(end 182 100.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "d9ec38d2-536e-4323-bcfe-671ba2e77572")
 	)
 	(segment
 		(start 97.1 98.86)
@@ -16260,6 +16220,14 @@
 		(uuid "e4e316b6-5b51-4807-8a9e-e71468f00fd1")
 	)
 	(segment
+		(start 200.5 90.5)
+		(end 190.5 100.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "ebfa7a77-9d01-4a8d-82fa-a47dae6a12d8")
+	)
+	(segment
 		(start 135.35 94.5)
 		(end 116.5 94.5)
 		(width 0.5)
@@ -16300,20 +16268,20 @@
 		(uuid "f167ee46-5645-4b9a-9e2d-aff86aaf328e")
 	)
 	(segment
+		(start 182 100.54)
+		(end 177.5 105.04)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "f2a5299c-9a39-4a39-bd2c-5086ba469dea")
+	)
+	(segment
 		(start 107.6 101.74)
 		(end 107.24 101.74)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "f3973cb1-5454-4a3c-a832-11687985835d")
-	)
-	(segment
-		(start 177.5 111.54)
-		(end 179.5 113.54)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 3)
-		(uuid "f4014d8c-3cba-4882-91ec-eaf930622689")
 	)
 	(segment
 		(start 107.5 92)
@@ -18525,11 +18493,11 @@
 	)
 	(segment
 		(start 164.235 115.5)
-		(end 177.5 115.5)
+		(end 175.5 115.5)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 44)
-		(uuid "c2ccfd94-3a31-4722-a84f-efb99cff845b")
+		(uuid "facde458-bddc-4cc3-a63d-c70a768d61fe")
 	)
 	(segment
 		(start 162.235 118.5)
@@ -18556,8 +18524,8 @@
 		(uuid "42a75c75-a46f-4db8-8626-6b2916fa8e7d")
 	)
 	(segment
-		(start 176 120.5)
-		(end 177.5 122)
+		(start 174 120.5)
+		(end 175.5 122)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 45)
@@ -18570,6 +18538,14 @@
 		(layer "B.Cu")
 		(net 45)
 		(uuid "607774ef-7e21-4ddd-bbe2-5411c2a0d042")
+	)
+	(segment
+		(start 164.235 120.5)
+		(end 174 120.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 45)
+		(uuid "82fc8f81-5bb8-4b82-8b81-ce89826fe208")
 	)
 	(segment
 		(start 152 136)
@@ -18610,14 +18586,6 @@
 		(layer "B.Cu")
 		(net 45)
 		(uuid "b1db1b96-bda1-4baa-919e-15eeb481a9d9")
-	)
-	(segment
-		(start 164.235 120.5)
-		(end 176 120.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 45)
-		(uuid "ea8907ce-1583-4a4e-b334-2d028586609f")
 	)
 	(segment
 		(start 153 124.5)
@@ -18668,8 +18636,16 @@
 		(uuid "69b4a497-1464-4642-bc8e-2ef8654375b7")
 	)
 	(segment
-		(start 174.5 125.5)
-		(end 177.5 128.5)
+		(start 172.5 125.5)
+		(end 164.235 125.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 46)
+		(uuid "806a1884-bc5a-458e-918d-48ea2bbf2b5a")
+	)
+	(segment
+		(start 172.5 125.5)
+		(end 175.5 128.5)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 46)
@@ -18690,14 +18666,6 @@
 		(layer "B.Cu")
 		(net 46)
 		(uuid "e49a506e-c851-4bd0-801c-67718bb18acf")
-	)
-	(segment
-		(start 164.235 125.5)
-		(end 174.5 125.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 46)
-		(uuid "e550747b-a730-4cc0-984a-f0efbfb8a95f")
 	)
 	(segment
 		(start 120.3 108.3)
@@ -18732,14 +18700,6 @@
 		(uuid "4f3540d6-4dd5-4c07-b263-b1997e156939")
 	)
 	(segment
-		(start 164.235 130.5)
-		(end 173 130.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 47)
-		(uuid "60dd407a-26f7-455b-93d9-a3c1b8ba8169")
-	)
-	(segment
 		(start 150 141)
 		(end 154 137)
 		(width 0.5)
@@ -18756,8 +18716,8 @@
 		(uuid "8460d07d-a8d2-4463-a981-41a982857870")
 	)
 	(segment
-		(start 173 130.5)
-		(end 177.5 135)
+		(start 171 130.5)
+		(end 175.5 135)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 47)
@@ -18780,6 +18740,14 @@
 		(uuid "b2d16ead-451d-49a8-931d-ac19e1641f6d")
 	)
 	(segment
+		(start 164.235 130.5)
+		(end 171 130.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 47)
+		(uuid "ba611447-67c2-4eb0-9c05-e984859c36f5")
+	)
+	(segment
 		(start 128.5 119.04)
 		(end 128.5 136)
 		(width 0.5)
@@ -18794,6 +18762,14 @@
 		(layer "B.Cu")
 		(net 47)
 		(uuid "fbee57e7-b272-4608-b0f9-5b14e566a5f6")
+	)
+	(segment
+		(start 164.685 110.5)
+		(end 174 110.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 48)
+		(uuid "08e175a8-3167-4bc9-9652-b7b6ef57d336")
 	)
 	(segment
 		(start 145.7 131.16)
@@ -18812,8 +18788,8 @@
 		(uuid "2eaf879a-8f90-41c3-965c-28e70b3422df")
 	)
 	(segment
-		(start 176 110.5)
-		(end 177.5 109)
+		(start 174 110.5)
+		(end 175.5 109)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 48)
@@ -18876,20 +18852,20 @@
 		(uuid "e91e4b91-3283-4d10-8aea-12d0a3525f88")
 	)
 	(segment
-		(start 164.685 110.5)
-		(end 176 110.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 48)
-		(uuid "f8bd9405-410a-49ee-8cf6-9eeab7d0a43a")
-	)
-	(segment
 		(start 157 116)
 		(end 159 114)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 48)
 		(uuid "fd73fec6-2dfd-4700-8e16-2d6a26af5536")
+	)
+	(segment
+		(start 164.685 105.5)
+		(end 172.5 105.5)
+		(width 0.5)
+		(layer "B.Cu")
+		(net 49)
+		(uuid "045b5242-ef61-4b49-8143-53ab6c6ed2bb")
 	)
 	(segment
 		(start 158 106)
@@ -18932,14 +18908,6 @@
 		(uuid "4389ac25-ff36-44f5-92e2-fa95e4fb429c")
 	)
 	(segment
-		(start 164.685 105.5)
-		(end 174.5 105.5)
-		(width 0.5)
-		(layer "B.Cu")
-		(net 49)
-		(uuid "4d3bd8b5-80be-41e1-aead-5d9cdd3be6be")
-	)
-	(segment
 		(start 158 113.5)
 		(end 158 106)
 		(width 0.5)
@@ -18972,8 +18940,8 @@
 		(uuid "b30cd707-c467-490d-b779-09a5fb8ed15b")
 	)
 	(segment
-		(start 174.5 105.5)
-		(end 177.5 102.5)
+		(start 172.5 105.5)
+		(end 175.5 102.5)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 49)
